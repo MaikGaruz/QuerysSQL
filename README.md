@@ -14,6 +14,7 @@ asi como, de los tipos de relaciones (Uno a Muchos, Uno a Uno, etc), de cardinal
 tipos de atributos...
 
 Por ejemplo:
+
 ![image](https://github.com/user-attachments/assets/c0ca9974-dcf0-46fc-895e-f523cbb0e071)
 
  
